@@ -24,3 +24,13 @@ The following are great reads:
 
 ## Open source examples of MEV Bots 
 - [Liquidation Bots](https://github.com/fxfactorial/liquidation-bot-fall-2020)
+
+## Twitter Accounts to follow 
+- [MEV Intern](https://twitter.com/mevintern)
+- [Robert Miller](https://twitter.com/bertcmiller)
+- [Tina](https://twitter.com/tzhen)
+- [the go step](https://twitter.com/thegostep)
+- [Philip Daian](https://twitter.com/phildaian)
+- [Fiona Kobayashi](https://twitter.com/fifikobayashi)
+- [samczsun](https://twitter.com/samczsun)
+- [Georgios Konstantopoulos](https://twitter.com/gakonst)
