@@ -18,6 +18,7 @@ The following are great reads:
 - [Ethereum is a Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest/)
 - [Wrecking sandwich traders for fun and profit](https://github.com/Defi-Cartel/salmonella)
 - [Flashbots: Frontrunning the MEV Crisis](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)
+- [MEV and EIP-1559](https://hackmd.io/@flashbots/MEV-1559)
 
 ## Solutions to MEV
 - [MEV Auction: Auctioning transaction ordering rights as a solution to Miner Extractable Value](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
