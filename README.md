@@ -1,2 +1,2 @@
-# Crypto
-Crypto for the Open Minded Skeptics 
+# Crypto Compilation
+Crypto for the Curious Open Mind
