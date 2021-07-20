@@ -24,6 +24,7 @@ The following are great reads:
 
 ## Open source examples of MEV Bots 
 - [Liquidation Bots](https://github.com/fxfactorial/liquidation-bot-fall-2020)
+- [MEV Modelling](https://github.com/fifikobayashi/mev)
 
 ## Twitter Accounts to follow 
 - [MEV Intern](https://twitter.com/mevintern)
