@@ -14,6 +14,8 @@ The following are great reads:
 - [Develop an MEV Taxonomy](https://github.com/flashbots/mev-research/issues/24)
 - [A thread of all my MEV related threads in chronologic order](https://twitter.com/bertcmiller/status/1402665992422047747)
 - [Uncommon Core Tweet Thread](https://twitter.com/miyuki_crypto/status/1396414282250653700)
+- [Announcing Dark Forest](https://blog.zkga.me/announcing-darkforest)
+- [Ethereum is a Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest/)
 
 ## Solutions to MEV
 - [MEV Auction: Auctioning transaction ordering rights as a solution to Miner Extractable Value](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
