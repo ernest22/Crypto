@@ -8,8 +8,8 @@ Fairly interesting! To learn more about it:
 
 ## Articles
 - [Liquidators: The Secret Whales Helping DeFi Function](https://medium.com/dragonfly-research/liquidators-the-secret-whales-helping-defi-function-acf132fbea5e)
--m[Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf)
--m[Random ordering of equally-priced transactions incentivises competitive spam](https://github.com/ethereum/go-ethereum/issues/21350)
+- [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf)
+- [Random ordering of equally-priced transactions incentivises competitive spam](https://github.com/ethereum/go-ethereum/issues/21350)
 - [Flashbots: Frontrunning the MEV Crisis](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)
 
 ## Technical
