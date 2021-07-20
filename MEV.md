@@ -16,11 +16,15 @@ The following are great reads:
 - [Uncommon Core Tweet Thread](https://twitter.com/miyuki_crypto/status/1396414282250653700)
 - [Announcing Dark Forest](https://blog.zkga.me/announcing-darkforest)
 - [Ethereum is a Dark Forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest/)
+- [Wrecking sandwich traders for fun and profit](https://github.com/Defi-Cartel/salmonella)
+- [Flashbots: Frontrunning the MEV Crisis](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)
 
 ## Solutions to MEV
 - [MEV Auction: Auctioning transaction ordering rights as a solution to Miner Extractable Value](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
 - [MEVA vs FSS rollup](https://twitter.com/ChainLinkGod/status/1412246204386209796)
 - [Cowswap: The most innovative DEX?](https://www.youtube.com/watch?v=FvFxKVaSloA) 
+- [ChainLink: Fair Sequencing Service](https://blog.chain.link/chainlink-fair-sequencing-services-enabling-a-provably-fair-defi-ecosystem/)
+- [FlashBots](https://explore.flashbots.net/)
 
 ## Open source examples of MEV Bots 
 - [Liquidation Bots](https://github.com/fxfactorial/liquidation-bot-fall-2020)
@@ -35,3 +39,4 @@ The following are great reads:
 - [Fiona Kobayashi](https://twitter.com/fifikobayashi)
 - [samczsun](https://twitter.com/samczsun)
 - [Georgios Konstantopoulos](https://twitter.com/gakonst)
+- [Charlies Noyes](https://twitter.com/_charlienoyes)
