@@ -29,7 +29,7 @@ I write more about that [here](https://twitter.com/desklamp0x/status/14155813054
 - [Pro ChainLink Twitter Commentary](https://twitter.com/chainlinkgod/status/1358563104028647425?lang=en)
 - [FlashBots](https://explore.flashbots.net/)
 
-## Open source examples of MEV Bots 
+## Open source Githubs of MEV Bots 
 - [Liquidation Bots](https://github.com/fxfactorial/liquidation-bot-fall-2020)
 - [MEV Modelling](https://github.com/fifikobayashi/mev)
 
