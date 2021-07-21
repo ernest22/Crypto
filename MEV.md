@@ -19,12 +19,14 @@ The following are great reads:
 - [Wrecking sandwich traders for fun and profit](https://github.com/Defi-Cartel/salmonella)
 - [Flashbots: Frontrunning the MEV Crisis](https://medium.com/flashbots/frontrunning-the-mev-crisis-40629a613752)
 - [MEV and EIP-1559](https://hackmd.io/@flashbots/MEV-1559)
+- [Flashbots Transparency Report — March 2021](https://medium.com/flashbots/flashbots-transparency-report-march-2021-d3930b4b98a9)
 
 ## Solutions to MEV
 - [MEV Auction: Auctioning transaction ordering rights as a solution to Miner Extractable Value](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788)
 - [MEVA vs FSS rollup](https://twitter.com/ChainLinkGod/status/1412246204386209796)
 - [Cowswap: The most innovative DEX?](https://www.youtube.com/watch?v=FvFxKVaSloA) 
 - [ChainLink: Fair Sequencing Service](https://blog.chain.link/chainlink-fair-sequencing-services-enabling-a-provably-fair-defi-ecosystem/)
+- [Pro ChainLink Twitter Commentary](https://twitter.com/chainlinkgod/status/1358563104028647425?lang=en)
 - [FlashBots](https://explore.flashbots.net/)
 
 ## Open source examples of MEV Bots 
