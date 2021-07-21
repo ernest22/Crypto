@@ -3,7 +3,7 @@ Inquiry into MEV is interesting due to the progress that it has made - not only 
 
 What should fairness look like? Should good practices remain a convention or be a legislation? And if a contract can reverse “bad” actions, should we even allow such thing? From market design, is it possible to minimise harm and optimise efficiency?
 
-The following are great reads: 
+I write more about that [here](https://twitter.com/desklamp0x/status/1415581305497075715?s=20) but the following are great reads: 
 
 ## Articles 
 - [Flash Boys 2.0](https://arxiv.org/pdf/1904.05234.pdf)
