@@ -1,5 +1,5 @@
 # Crypto for the Open Minded Meddler 
-A compilation of docs, research articles, arxiv pdfs, online forums, github repos and other tasty snacks to fulfill your hungry desire to taste more of the crypto space. 
+A compilation of docs, research articles, arxiv pdfs, online forums, github repos and other tasty snacks to fulfill your hungry desire to lick more of the crypto space. 
 
 Put on some lofi beats, digest the juice and test it out as we pass this bear market :) 
 
